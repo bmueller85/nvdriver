@@ -23,6 +23,7 @@ Installation and Usage
 Set Script Permissions:
 
 Make the script executable by running:
+
     sudo chmod +x gpu-split.sh
 
 Run the Script:
